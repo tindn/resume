@@ -2,8 +2,8 @@
 tindn14@gmail.com | 508-484-3184 | @tindn 
 
 ## Software Development Experience
-* Building custom enterprise applications using .NET Framework, MS SQL, ASP.NET MVC.
-* Building RESTful APIs with .NET Framework, .NET Core, NodeJs, MS SQL, and MongoDB.  
+* Building custom enterprise applications using C# .NET, MS SQL, ASP.NET MVC.
+* Building RESTful APIs with C# .NET, .NET Core, NodeJs, MS SQL, and MongoDB.  
 * Building single page client applications using Angular 1 and BackboneJs.
 * Employing agile and waterfall development methodologies.
 * Using version control systems Git and TeamFoundationServer.
