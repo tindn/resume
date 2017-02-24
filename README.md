@@ -1,24 +1,24 @@
 # Tin Nguyen
 tindn14@gmail.com | 508-484-3184 | @tindn 
 
-## Software Development Experience
+## Software Development Skills 
 * Building custom enterprise applications using C# .NET, MS SQL, ASP.NET MVC.
 * Building RESTful APIs with C# .NET, .NET Core, NodeJs, MS SQL, and MongoDB.  
-* Building single page client applications using Angular 1 and BackboneJs.
+* Building single page client applications using AngularJs and BackboneJs.
 * Employing agile and waterfall development methodologies.
-* Using version control systems Git and TeamFoundationServer.
 * Using test frameworks NUnit and Mocha.
 * Using automated deployment system Octopus Deploy.
 * Using containerization platform Docker to setup and deploy applications.
-* Using cloud platforms AWS, DigitalOcean, Heroku.
+* Using cloud platforms AWS, DigitalOcean, and Heroku.
 
-## Work Experience
+## Work Experience 
 **Software Consultant**, Quality Consulting Inc, Des Moines, IA &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 *November 2014 - Present*
-* Deliver quality business solutions to small and medium client enterprises by developing custom applications and APIs.
+* Deliver quality business solutions to small and medium client enterprises by developing 
+custom applications and APIs.
 * Consult and customize Dynamics GP enterprise software deployments.
-* Work directly with clients in gathering software requirements, project planning, managing development cycle,
-providing regular and on-demand user support. 
+* Work directly with clients to gather software requirements, manage development cycle, 
+provide regular and on-demand user support. 
 
 **Web Developer**, Alliance Technologies, Des Moines, IA &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 *June 2014 - October 2014*
