@@ -1,5 +1,5 @@
 # Tin Nguyen
-tindn14@gmail.com | 508-484-3184 | @tindn 
+tinnguyen@protonmail.com | 508-484-3184 | @tindn 
 
 ## Software Development Skills 
 * Build custom enterprise applications using C# .NET, MS SQL, ASP.NET MVC.
