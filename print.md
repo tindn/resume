@@ -21,7 +21,7 @@ tinnguyen@protonmail.com | 508-484-3184 | @tindn
 * Build web and mobile applications using Ionic Framework, AngularJS, ReactJs, Redux, and React Native.
 
 **Software Consultant**, Quality Consulting Inc, Des Moines, IA  
-*November 2014 - Present*
+*November 2014 - May 2017*
 
 * Develop custom business software solutions to small and medium enterprises.
 * Consult and customize Microsoft Dynamics GP ERP implementation.
