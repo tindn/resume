@@ -1,6 +1,6 @@
 # Tin Nguyen
 
-tinnguyen@protonmail.com | 508-484-3184 | [@tindn](https://twitter.com/tindn) | [PDF & Print](https://gitprint.com/tindn/resume/blob/master/print.md)
+tinnguyen@protonmail.com | 508-484-3184 | @tindn
 
 ## Software Development Skills
 
