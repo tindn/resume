@@ -1,45 +1,57 @@
 # Tin Nguyen
-tinnguyen@protonmail.com | 508-484-3184 | @tindn 
 
-## Software Development Skills 
-* Build custom enterprise applications using C# .NET, MS SQL, ASP.NET MVC.
-* Build RESTful APIs with C# .NET, .NET Core, NodeJs, MS SQL, and MongoDB.  
-* Build single page client applications using AngularJs and ReactJs.
+tinnguyen@protonmail.com | 508-484-3184 | @tindn
+
+## Software Development Skills
+
+* Build web applications using AngularJs, ReactJs, and Redux.
+* Build mobile applications using Ionic and React Native.
+* Build RESTful APIS using C# .NET, MS SQL, NodeJs, MongoDB.
 * Employ agile and waterfall development methodologies.
-* Use test frameworks NUnit and Mocha.
-* Use automated deployment system Octopus Deploy.
+* Use test frameworks NUnit, Mocha, Enzyme, and Jest.
+* Use automated deployment systems Octopus Deploy and Jenkins.
 * Use containerization platform Docker to setup and deploy applications.
 * Use cloud platforms AWS, DigitalOcean, and Heroku.
 
-## Work Experience 
-**Software Consultant**, Quality Consulting Inc, Des Moines, IA<br/>
+## Professional Experience
+
+**Senior Software Engineer**, GE Digital, Providence, RI  
+*May 2017 - Present*
+
+* Build web and mobile applications using Ionic Framework, AngularJS, ReactJs, Redux, and React Native.
+
+**Software Consultant**, Quality Consulting Inc, Des Moines, IA  
 *November 2014 - Present*
-* Deliver quality business solutions to small and medium client enterprises by developing 
-custom applications and APIs.
-* Consult and customize [Dynamics GP](https://www.microsoft.com/en-us/dynamics365/gp-overview) enterprise software deployments.
-* Work directly with clients to gather software requirements, manage development cycle, 
-provide regular and on-demand user support. 
 
-**Web Developer**, Alliance Technologies, Des Moines, IA<br/>
+* Develop custom business software solutions to small and medium enterprises.
+* Consult and customize [Microsoft Dynamics GP](https://www.microsoft.com/en-us/dynamics365/gp-overview) ERP implementation.
+* The technology stack included C# .NET, MS SQL, NUnit, and AngularJS.
+
+**Web Developer**, Alliance Technologies, Des Moines, IA  
 *June 2014 - October 2014*
-* Build websites using Drupal CMS and write custom plugins using PHP and JavaScript.
-* Develop custom themes with CSS and JavaScript.
 
-**Web Developer Intern**, Birdeye Design, Wooster OH<br/>
+* Build websites using Drupal CMS, custom plugins and themes.
+
+**Web Developer Intern**, Birdeye Design, Wooster OH  
 *January to August 2013*
-* Build custom websites with Drupal, HTML, CSS, and jQuery.
 
-**Financial Analyst Intern**, Coca Cola Vietnam, Ho Chi Minh City, Viet Nam<br/>
-*June to August 2012* 
-* Build MS Access database to store operation data from SAP.
-* Write Excel Visual Basics functions to generate financial reports.
+* Build custom websites with Drupal CMS, HTML, CSS, and jQuery.
+
+**Financial Analyst Intern**, Coca Cola Vietnam, Ho Chi Minh City, Viet Nam  
+*June to August 2012*
+
+* Build MS Access database to store operation data from SAP and generate financial reports with Excel Visual Basics.
 
 ## Education
-**Bachelor of Arts in Computer Science and Economics**, Cum Laude, The College of Wooster, Ohio <br/>
-*May 2014*
-* Received Honors for senior thesis about using machine learning to optimize college financial aid package.
 
-**Junior College**, Raffles Institution, Singapore <br/>
+**Bachelor of Arts in Computer Science and Economics**, The College of Wooster, Ohio  
+*May 2014*
+
+* Graduated Cum Laude.
+* Received Honors for senior independent thesis on using machine learning to optimize college financial aid package.
+
+**Junior College**, Raffles Institution, Singapore  
 *December 2009*
-* Cambridge Advanced Level Examinations
+
+* Completed the Cambridge Advanced Level Examinations
 
