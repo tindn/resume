@@ -4,8 +4,8 @@ tinnguyen@protonmail.com | 508-484-3184 | @tindn
 
 ## Software Development Skills
 
-* Build web applications using [AngularJs](https://angular.io/), [ReactJs](https://reactjs.org/), and [Redux](https://redux.js.org/).
-* Build mobile applications using [Ionic](http://ionicframework.com/) and [ReactNative](http://facebook.github.io/react-native/).
+* Build web applications using AngularJs, ReactJs, and Redux.
+* Build mobile applications using Ionic and ReactNative.
 * Build RESTful APIs using C# .NET, MS SQL, NodeJs, ExpressJs, and MongoDB.
 * Employ agile and waterfall development methodologies.
 * Use test frameworks NUnit, Mocha, Enzyme, and Jest.
@@ -24,7 +24,7 @@ tinnguyen@protonmail.com | 508-484-3184 | @tindn
 *November 2014 - Present*
 
 * Develop custom business software solutions to small and medium enterprises.
-* Consult and customize [Microsoft Dynamics GP](https://www.microsoft.com/en-us/dynamics365/gp-overview) ERP implementation.
+* Consult and customize Microsoft Dynamics GP ERP implementation.
 * The technology stack included C# .NET, MS SQL, NUnit, and AngularJS.
 
 **Web Developer**, Alliance Technologies, Des Moines, IA  
