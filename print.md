@@ -1,6 +1,6 @@
 # Tin Nguyen
 
-tinnguyen@protonmail.com | 508-484-3184 | @tindn
+tindn14@gmail.com | 508-484-3184 | @tindn
 
 ## Software Development Skills
 
