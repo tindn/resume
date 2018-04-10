@@ -38,7 +38,7 @@ _January to August 2013_
 
 * Build custom websites with Drupal CMS, HTML, CSS, and jQuery.
 
-**Financial Analyst Intern**, Coca Cola Vietnam, Ho Chi Minh City, Viet Nam -
+**Financial Analyst Intern**, Coca Cola Vietnam, Ho Chi Minh, Viet Nam -
 _June to August 2012_
 
 * Build MS Access database to store operation data from SAP and generate financial reports with Excel Visual Basics.

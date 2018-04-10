@@ -34,7 +34,7 @@ tindn14@gmail.com | 508-484-3184 | @tindn
 
 * Build custom websites with Drupal CMS, HTML, CSS, and jQuery.
 
-**Financial Analyst Intern**, Coca Cola Vietnam, Ho Chi Minh City, Viet Nam - _June to August 2012_
+**Financial Analyst Intern**, Coca Cola Vietnam, Ho Chi Minh, Viet Nam - _June to August 2012_
 
 * Build MS Access database to store data and generate financial reports.
 
