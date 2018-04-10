@@ -6,11 +6,10 @@ tindn14@gmail.com | 508-484-3184 | @tindn
 
 * Build web applications with JavaScript, TypeScript, ReactJs, and Redux.
 * Build mobile applications using ReactNative and Ionic.
-* Build RESTful APIs using NodeJs, ExpressJs, MongoDB, C# .NET, and MS SQL,.
+* Build RESTful APIs using NodeJs and C#.
 * Employ agile and waterfall development methodologies.
 * Use test frameworks Jest, Mocha, and NUnit.
-* Use automated deployment systems Jenkins and Octopus Deploy.
-* Use containerization platform Docker to setup and deploy applications.
+* Use Docker and Jenkins for build automation and deployment.
 * Use cloud platforms AWS, DigitalOcean, and Heroku.
 
 ## Professional Experience
@@ -19,6 +18,8 @@ tindn14@gmail.com | 508-484-3184 | @tindn
 _May 2017 - Present_
 
 * Architect and develop web and mobile applications.
+* Mentor junior developers through code reviews, architecture discussions, and tech talks.
+* Manage project deliveries for the front-end team.
 
 **Software Consultant**, Quality Consulting Inc, Des Moines, IA
 _November 2014 - May 2017_
