@@ -14,44 +14,37 @@ tindn14@gmail.com | 508-484-3184 | @tindn
 
 ## Professional Experience
 
-**Senior Software Engineer**, GE Digital, Providence, RI
-_May 2017 - Present_
+**Senior Software Engineer**, GE Digital, Providence, RI - _May 2017 - Present_
 
 * Architect and develop web and mobile applications.
-* Mentor junior developers through code reviews, architecture discussions, and tech talks.
+* Mentor junior developers through code reviews, architecture discussions, and hosting weekly tech talks.
 * Manage project deliveries for the front-end team.
 
-**Software Consultant**, Quality Consulting Inc, Des Moines, IA
-_November 2014 - May 2017_
+**Software Consultant**, Quality Consulting Inc, Des Moines, IA - _November 2014 - May 2017_
 
 * Develop custom business software solutions to small and medium enterprises.
 * Consult and customize Microsoft Dynamics GP ERP implementation.
 * The technology stack included C# .NET, MS SQL, NUnit, and AngularJS.
 
-**Web Developer**, Alliance Technologies, Des Moines, IA
-_June 2014 - October 2014_
+**Web Developer**, Alliance Technologies, Des Moines, IA - _June 2014 - October 2014_
 
 * Build websites using Drupal CMS, custom plugins and themes.
 
-**Web Developer Intern**, Birdeye Design, Wooster OH
-_January to August 2013_
+**Web Developer Intern**, Birdeye Design, Wooster OH - _January to August 2013_
 
 * Build custom websites with Drupal CMS, HTML, CSS, and jQuery.
 
-**Financial Analyst Intern**, Coca Cola Vietnam, Ho Chi Minh City, Viet Nam
-_June to August 2012_
+**Financial Analyst Intern**, Coca Cola Vietnam, Ho Chi Minh City, Viet Nam - _June to August 2012_
 
-* Build MS Access database to store operation data from SAP and generate financial reports with Excel Visual Basics.
+* Build MS Access database to store data and generate financial reports.
 
 ## Education
 
-**Bachelor of Arts in Computer Science and Economics**, The College of Wooster, Ohio
-_May 2014_
+**Bachelor of Arts in Computer Science and Economics**, The College of Wooster, Ohio - _May 2014_
 
 * Graduated Cum Laude.
 * Received Honors for senior independent thesis on using machine learning to optimize college financial aid package.
 
-**Junior College**, Raffles Institution, Singapore
-_December 2009_
+**Junior College**, Raffles Institution, Singapore - _December 2009_
 
 * Completed the Cambridge Advanced Level Examinations
