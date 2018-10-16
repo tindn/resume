@@ -4,8 +4,8 @@ tindn14@gmail.com | 508-484-3184 | @tindn
 
 ## Software Development Skills
 
-- Build web applications with JavaScript, TypeScript, ReactJs, and Redux.
-- Build mobile applications using ReactNative and Ionic.
+- Build web applications with JavaScript, ReactJs, and Angular 6.
+- Build mobile applications using ReactNative.
 - Build RESTful APIs using NodeJs and C#.
 - Employ agile and waterfall development methodologies.
 - Use test frameworks Jest, Mocha, and NUnit.
