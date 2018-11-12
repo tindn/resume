@@ -7,7 +7,7 @@ hi@tindn.io | 508-484-3184 | [@tindn](https://twitter.com/tindn) | [PDF & Print]
 - Build web applications with JavaScript, [ReactJs](https://reactjs.org/), and [Angular 6](https://angular.io/).
 - Build mobile applications using [ReactNative](http://facebook.github.io/react-native/).
 - Build RESTful APIs using NodeJs and C#.
-- Write unit, integration, and end-to-end tests using test frameworks [Jest](https://jestjs.io/), [Detox](https://github.com/wix/Detox), and [Cypress](https://www.cypress.io/).
+- Write unit, integration, and end-to-end tests using [Jest](https://jestjs.io/), [Detox](https://github.com/wix/Detox), and [Cypress](https://www.cypress.io/).
 - Use cloud platforms Firebase, DigitalOcean, and Amazon AWS.
 
 ## Professional Experience
@@ -23,7 +23,7 @@ _July 2018- Present_
 _May 2017 - June 2018_
 
 - Architect and develop web and mobile applications with ReactJS and React Native.
-- Mentor junior developers through code reviews, architecture discussions, and tech talks.
+- Mentor junior developers through code reviews, architecture discussions, and hosting weekly tech talks.
 - Manage project deliveries for the front-end team.
 
 **Software Consultant**, Quality Consulting Inc, Des Moines, IA -

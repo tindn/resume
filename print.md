@@ -7,7 +7,7 @@ hi@tindn.io | 508-484-3184 | @tindn
 - Build web applications with JavaScript, ReactJs, and Angular 6.
 - Build mobile applications using ReactNative.
 - Build RESTful APIs using NodeJs and C#.
-- Write unit, integration, and end-to-end tests using test frameworks Jest, Detox, and Cypress.
+- Write unit, integration, and end-to-end tests using Jest, Detox, and Cypress.
 - Use cloud platforms Firebase, DigitalOcean, and Amazon AWS.
 
 ## Professional Experience
