@@ -1,29 +1,28 @@
 # Tin Nguyen
 
-tindn14@gmail.com | 508-484-3184 | [@tindn](https://twitter.com/tindn) | [PDF & Print](https://gitprint.com/tindn/resume/blob/master/print.md)
+hi@tindn.io | 508-484-3184 | [@tindn](https://twitter.com/tindn) | [PDF & Print](https://gitprint.com/tindn/resume/blob/master/print.md)
 
 ## Software Development Skills
 
 - Build web applications with JavaScript, [ReactJs](https://reactjs.org/), and [Angular 6](https://angular.io/).
 - Build mobile applications using [ReactNative](http://facebook.github.io/react-native/).
 - Build RESTful APIs using NodeJs and C#.
-- Employ agile and waterfall development methodologies.
-- Use test frameworks Jest, Mocha, and NUnit.
-- Use Docker and Jenkins for build automation and deployment.
-- Use cloud platforms AWS, DigitalOcean, and Heroku.
+- Write unit, integration, and end-to-end tests using test frameworks [Jest](https://jestjs.io/), [Detox](https://github.com/wix/Detox), and [Cypress](https://www.cypress.io/).
+- Use cloud platforms Firebase, DigitalOcean, and Amazon AWS.
 
 ## Professional Experience
 
-**Senior Software Engineer**, XPO Logistics, Boston, MA -
+**Software Engineer IV**, XPO Logistics, Boston, MA -
 _July 2018- Present_
 
-- Lead team to develop Angular web application for warehouse optimization.
-- Lead development of React Native mobile application.
+- Lead development of warehouse optimization web application and API.
+- Develop React Native mobile application and setup CI/CD service.
+- Mentor junior developers.
 
 **Senior Software Engineer**, GE Digital, Providence, RI -
 _May 2017 - June 2018_
 
-- Architect and develop web and mobile applications.
+- Architect and develop web and mobile applications with ReactJS and React Native.
 - Mentor junior developers through code reviews, architecture discussions, and tech talks.
 - Manage project deliveries for the front-end team.
 
