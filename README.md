@@ -4,7 +4,7 @@ hi@tindn.io | 508-484-3184 | [@tindn](https://twitter.com/tindn) | [PDF & Print]
 
 ## Software Development Skills
 
-- Build mobile applications using [ReactNative](https://reactnative.dev), with notable functionalities including
+- Build mobile applications using [React Native](https://reactnative.dev), with notable functionalities including
   - User authentication using various OAuth 2 flows
   - Local-first database with full-text search capability using SQLite
   - Audio player with offline playback experience
