@@ -18,8 +18,13 @@ hi@tindn.io | 508-484-3184 | [@tindn](https://twitter.com/tindn) | [PDF & Print]
 
 ## Professional Experience
 
+**Senior Software Engineer**, [NDVR Inc.](https://ndvr.com/), Boston, MA -
+_July 2020- Present_
+
+- Develop mobile and web applications.
+
 **Principal Software Engineer**, [Rocket Insights](http://rocketinsights.com/), Boston, MA -
-_Dec 2018- Present_
+_Dec 2018- July 2020_
 
 - Lead mobile app projects from design to app store deployments.
 - Manage client relations and project deliveries.
