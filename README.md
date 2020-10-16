@@ -12,8 +12,6 @@ hi@tindn.io | 508-484-3184 | [@tindn](https://twitter.com/tindn) | [PDF & Print]
 - Build web applications using JavaScript, [ReactJs](https://reactjs.org/), and [Angular](https://angular.io/).
 - Build RESTful APIs and server-side rendered apps using Node.js and C#.
 - Write unit, integration, and end-to-end tests using [Jest](https://jestjs.io/), [Detox](https://github.com/wix/Detox), and [Cypress](https://www.cypress.io/).
-- Use cloud platforms DigitalOcean and Google Cloud.
-
 
 
 ## Professional Experience
@@ -39,7 +37,6 @@ _May 2017 - June 2018_
 
 - Develop web and mobile applications with ReactJS and React Native.
 - Mentor junior developers through code reviews, architecture discussions, and weekly tech talks.
-- Manage project deliveries for the front-end team.
 
 **Software Consultant**, [Quality Consulting Inc](https://qci.com), Des Moines, IA -
 _November 2014 - May 2017_
@@ -50,9 +47,6 @@ _November 2014 - May 2017_
 **Web Developer**, Alliance Technologies, Des Moines, IA -
 _June 2014 - October 2014_
 
-- Build websites using Drupal CMS, custom plugins, and themes.
-
-
 
 ## Education
 
@@ -60,7 +54,7 @@ _June 2014 - October 2014_
 _May 2014_
 
 - Graduated Cum Laude.
-- Received Honors for senior independent thesis on using machine learning to optimize college financial aid package.
+- Received Honors for senior thesis on using machine learning to optimize college financial aid package.
 
 **Junior College**, Raffles Institution, Singapore -
 _December 2009_
