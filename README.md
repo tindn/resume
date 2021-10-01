@@ -4,14 +4,13 @@ hi@tindn.io | 508-484-3184 | [@tindn](https://twitter.com/tindn) | [PDF & Print]
 
 ## Software Development Skills
 
-- Build mobile applications using [React Native](https://reactnative.dev), with notable functionalities including
-  - User authentication using various OAuth 2 flows
-  - Local-first database with full-text search capability using SQLite
-  - Audio player with offline playback experience
-  - Integration with BaaS platforms Firebase and Sentry.
-- Build web applications using JavaScript, [ReactJs](https://reactjs.org/), and [Angular](https://angular.io/).
-- Build RESTful APIs and server-side rendered apps using Node.js and C#.
-- Write unit, integration, and end-to-end tests using [Jest](https://jestjs.io/), [Detox](https://github.com/wix/Detox), and [Cypress](https://www.cypress.io/).
+- Architect and build mobile applications using React Native, with experience such as
+  - Integrating SQLite to enable offline and full text search functionalities 
+  - Integrating native Objective-C and Java modules
+  - Setting up CI/CD pipeline using fastlane, Circle CI, and MS AppCenter
+- Build web applications using JavaScript, ReactJs, and Angular.
+- Build RESTful APIs  and web apps using Node.js and C#.
+- Write unit, integration, and end-to-end tests using Jest, Detox, and Cypress.
 
 
 ## Professional Experience
@@ -19,15 +18,18 @@ hi@tindn.io | 508-484-3184 | [@tindn](https://twitter.com/tindn) | [PDF & Print]
 **Senior Software Engineer**, [NDVR Inc.](https://ndvr.com/), Boston, MA -
 _July 2020- Present_
 
-- Develop mobile and web applications.
+- Lead mobile app development.
+- Develop React web app, focusing on state management, complex forms, and component library.
+- Provide guidance and training in React and mobile development to team members.
 
 **Principal Software Engineer**, [Rocket Insights](http://rocketinsights.com/), Boston, MA -
 _Dec 2018- July 2020_
 
 - Lead mobile app projects from design to app store deployments.
 - Manage client relations and project deliveries.
+- Organize React Native developer group to share knowledge and stay up to date with the technology. 
 
-**Software Engineer IV**, XPO Logistics, Boston, MA -
+**Software Engineer IV**, [XPO Logistics](https://www.xpo.com/), Boston, MA -
 _July 2018 - Dec 2018_
 
 - Develop warehouse optimization software with Angular, React Native, and .NET.
