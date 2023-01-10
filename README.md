@@ -1,35 +1,28 @@
-# Tin Nguyen
+## Tin Nguyen
 
 hi@tindn.io | 508-484-3184 | [@tindn](https://twitter.com/tindn) | [PDF & Print](https://github.com/tindn/resume/blob/master/TinNguyen.pdf)
 
-## Software Development Skills
+---
 
-- Architect and build mobile applications using React Native, with experience such as
-  - Integrating SQLite to enable offline and full text search functionalities 
-  - Integrating native Objective-C and Java modules
-  - Setting up CI/CD pipeline using fastlane, Circle CI, and MS AppCenter
-- Build web applications using JavaScript, ReactJs, and Angular.
-- Build RESTful APIs  and web apps using Node.js and C#.
-- Write unit, integration, and end-to-end tests using Jest, Detox, and Cypress.
+### Professional Experience
 
-
-## Professional Experience
-
-**Senior Software Engineer**, [NDVR Inc.](https://ndvr.com/), Boston, MA -
+**Staff Software Engineer**, [NDVR Inc.](https://ndvr.com/), Boston, MA -
 _July 2020- Present_
 
-- Lead mobile app development.
+- Lead mobile app development using React Native.
 - Develop React web app, focusing on state management, complex forms, and component library.
-- Provide guidance and training in React and mobile development to team members.
+- Develop backend services to support our suit of front-end applications.
+- Provide technical leadership for front-end applications.
+- Provide guidance and training in web and mobile development to team members.
 
-**Principal Software Engineer**, [Rocket Insights](http://rocketinsights.com/), Boston, MA -
+**Senior Software Engineer**, [Rocket Insights](http://rocketinsights.com/), Boston, MA -
 _Dec 2018- July 2020_
 
 - Lead mobile app projects from design to app store deployments.
 - Manage client relations and project deliveries.
-- Organize React Native developer group to share knowledge and stay up to date with the technology. 
+- Organize React Native developer group to share knowledge and stay up to date with the technology.
 
-**Software Engineer IV**, [XPO Logistics](https://www.xpo.com/), Boston, MA -
+**Senior Software Engineer**, [XPO Logistics](https://www.xpo.com/), Boston, MA -
 _July 2018 - Dec 2018_
 
 - Develop warehouse optimization software with Angular, React Native, and .NET.
@@ -49,8 +42,7 @@ _November 2014 - May 2017_
 **Web Developer**, Alliance Technologies, Des Moines, IA -
 _June 2014 - October 2014_
 
-
-## Education
+### Education
 
 **Bachelor of Arts in Computer Science and Economics**, The College of Wooster, Ohio -
 _May 2014_
