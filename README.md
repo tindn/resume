@@ -1,6 +1,8 @@
 ## Tin Nguyen
 
-hi@tindn.io | 508-484-3184 | [@tindn](https://twitter.com/tindn) | [PDF & Print](https://github.com/tindn/resume/blob/master/TinNguyen.pdf)
+[hi@tindn.io](mailto:hi@tindn.io) | 508-484-3184 | [https://github.com/tindn](https://github.com/tindn) | [@tindn](https://twitter.com/tindn)
+
+[PDF & Print](https://github.com/tindn/resume/blob/master/TinNguyen.pdf)
 
 ---
 
