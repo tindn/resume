@@ -1,6 +1,6 @@
 ## Tin Nguyen
 
-[hi@tindn.io](mailto:hi@tindn.io) | 508-484-3184 | [https://github.com/tindn](https://github.com/tindn) | [@tindn](https://twitter.com/tindn)
+[hello@tindn.io](mailto:hello@tindn.io) | 508-484-3184 | [https://github.com/tindn](https://github.com/tindn) | [@tindn](https://twitter.com/tindn)
 
 [PDF & Print](https://github.com/tindn/resume/blob/master/TinNguyen.pdf)
 
@@ -11,11 +11,10 @@
 **Staff Software Engineer**, [NDVR Inc.](https://ndvr.com/), Boston, MA -
 _July 2020- Present_
 
-- Lead mobile app development using React Native.
-- Develop React web app, focusing on state management, complex forms, and component library.
-- Develop backend services to support our suit of front-end applications.
-- Provide technical leadership for front-end applications.
-- Provide guidance and training in web and mobile development to team members.
+- Lead mobile app product written in React Native.
+- Manage a team of front end engineers building web and mobile applications.
+- Collaborate with other engineering leads to develop software architecture spanning across backend and frontend domains.
+- Provide guidance and training in web and mobile app development to team members.
 
 **Senior Software Engineer**, [Rocket Insights](http://rocketinsights.com/), Boston, MA -
 _Dec 2018- July 2020_
