@@ -1,6 +1,6 @@
 ## Tin Nguyen
 
-[hello@tindn.io](mailto:hello@tindn.io) | 508-484-3184 | [https://github.com/tindn](https://github.com/tindn) | [@tindn](https://twitter.com/tindn)
+[hello@tindn.io](mailto:hello@tindn.io) | 508-484-3184 | [https://github.com/tindn](https://github.com/tindn) | [@tindn](https://www.threads.net/@tindn)
 
 [PDF & Print](https://github.com/tindn/resume/blob/master/TinNguyen.pdf)
 
@@ -8,7 +8,11 @@
 
 ### Professional Experience
 
-**Staff Software Engineer** @ [NDVR Inc.](https://ndvr.com) Boston, MA | _July 2020 - Present_
+**Senior Software Engineer** @ [Klaviyo.](https://klaviyo.com) Boston, MA | _Jan 2024 - Present_ 
+
+- Building natural language interfaces.
+
+**Staff Software Engineer** @ [NDVR Inc.](https://ndvr.com) Boston, MA | _July 2020 - Jan 2024_ 
 
 - Lead mobile app product.
   - Develop product roadmap aligned with business objectives.
