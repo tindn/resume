@@ -1,6 +1,6 @@
 ## Tin Nguyen
 
-[hello@tindn.io](mailto:hello@tindn.io) | 508-484-3184 | [https://github.com/tindn](https://github.com/tindn) | [@tindn](https://www.threads.net/@tindn)
+[tindn@icloud.com](mailto:tindn@icloud.com) | 508-484-3184 | [https://github.com/tindn](https://github.com/tindn) | [@tindn](https://www.threads.net/@tindn)
 
 [PDF & Print](https://github.com/tindn/resume/blob/master/TinNguyen.pdf)
 
@@ -10,7 +10,7 @@
 
 **Senior Software Engineer** @ [Klaviyo.](https://klaviyo.com) Boston, MA | _Jan 2024 - Present_ 
 
-- Building natural language interfaces.
+- Building Klaviyo AI Customer Agent
 
 **Staff Software Engineer** @ [NDVR Inc.](https://ndvr.com) Boston, MA | _July 2020 - Jan 2024_ 
 
