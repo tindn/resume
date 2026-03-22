@@ -4,7 +4,7 @@
 
 [PDF & Print](https://github.com/tindn/resume/blob/master/TinNguyen.pdf)
 
-_Product focused engineer, over 10 years of experience in full stack web technologies, mobile app development, and more recently, AI applications with LLMs._
+_Product focused engineer, 13 years of experience in full stack web technologies, mobile app development, and more recently, AI applications with LLMs._
 
 ---
 
@@ -12,8 +12,9 @@ _Product focused engineer, over 10 years of experience in full stack web technol
 
 **Senior Software Engineer** @ [Klaviyo.](https://klaviyo.com) Boston, MA | _Jan 2024 - Present_ 
 
-- Building Klaviyo AI Retail Agent and Klaviyo assistant agent using LLMs and agentic workflows.
-- Tech stack: Open AI GPT models, Anthropic Claude models, LangChain, pgVector, Django, FastAPI, Python, ReactJS, TypeScript. 
+- Building Klaviyo CoPilot Agent, an agentic assistant enabling brands to execute autonomous marketing workflows.
+- Built Klaviyo Customer Service Agent, enabling Klaviyo brands to provide on-brand and personalized customer support.
+- Tech stack: Open AI GPT models, Anthropic Claude models, LangChain, LangGraph, pgVector, Django, FastAPI, Python, ReactJS, TypeScript. 
 
 **Staff Software Engineer** @ [NDVR Inc.](https://ndvr.com) Boston, MA | _July 2020 - Jan 2024_ 
 
