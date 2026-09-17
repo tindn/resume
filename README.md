@@ -8,61 +8,65 @@ _Product focused engineer, 13 years of experience in full stack web technologies
 
 ---
 
-### Professional Experience
+**3. Build LLM-powered features & agentic products**
+> Find PMF for new agentic products while applying good software engineering to LLM-powered apps.
+> 
+> GPT & Claude models, LangChain, OpenAI SDK, FastAPI, Python, TypeScript, Temporal
 
-**Senior Software Engineer** @ [Klaviyo.](https://klaviyo.com) Boston, MA | _Jan 2024 - Present_ 
+- Senior Software Engineer @ [Klaviyo.](https://klaviyo.com) Boston, MA | _Jan 2024 - Present_ 
 
-- Building Klaviyo CoPilot Agent, an agentic assistant enabling brands to execute autonomous marketing workflows.
-- Built Klaviyo Customer Service Agent, enabling Klaviyo brands to provide on-brand and personalized customer support.
-- Tech stack: Open AI GPT models, Anthropic Claude models, LangChain, LangGraph, pgVector, Django, FastAPI, Python, ReactJS, TypeScript. 
+  Klaviyo Composer Agent, an AI assistant for autonomous marketing workflows.
+  
+  Klaviyo Customer Service Agent, enabling ecomm brands to provide on-brand and personalized customer support.
 
-**Staff Software Engineer** @ [NDVR Inc.](https://ndvr.com) Boston, MA | _July 2020 - Jan 2024_ 
 
-- Built and launched the NDVR Wealth mobile app, a consumer finance app for optimizing and tracking investment portfolios.
-- Set the foundation for the web app and component library.
-- Tech stack: React Native, ReactJS, TypeScript, NestJS, PostgreSQL.
+#### 2. Build delightful and complex mobile apps for Android and iOS using React Native
+> Focus on product development, mentoring junior engineers, and setting technical foundations.
+>
+> TypeScript, React Native, ReactJS, NestJS, NodeJS, PostgreSQL, SQLite.
 
-**Senior Software Engineer** @ [Rocket Insights](http://rocketinsights.com). Boston, MA |
+- Staff Software Engineer @ [NDVR Inc.](https://ndvr.com) Boston, MA | _July 2020 - Jan 2024_ 
+
+  Launched the NDVR Wealth mobile app, a consumer finance app for optimizing and tracking investment portfolios.
+
+- Senior Software Engineer @ [Rocket Insights](http://rocketinsights.com). Boston, MA |
 _Dec 2018 - July 2020_
-
-- Built and deployed mobile apps for clients including:
   - Real time service job tracking app for field technicians.
   - Offline first TV and film production management app SyncOnSet.
   - Library management and research assistant app for EBSCO Information Services.
-- Tech stack: React Native, TypeScript, JavaScript, Node.js, SQLite.
 
-**Senior Software Engineer** @ [XPO Logistics](https://www.xpo.com). Boston, MA |
+#### 1. Build full stack web applications 
+> Focus on working across back-end and front-end to deliver complete software solutions.
+> 
+> C#, .NET, JavaScript, ReactJS, AngularJS, Node.js, MS SQL, MySQL, PostgreSQL.  
+
+- Senior Software Engineer @ [XPO Logistics](https://www.xpo.com). Boston, MA |
 _July 2018 - Dec 2018_
 
-- Built warehouse optimization software with Angular, React Native, and Microsoft .NET.
+  Built in house software to optimize warehouse operations.
 
-**Senior Software Engineer** @ [GE Digital](https://www.ge.com). Providence, RI |
+- Senior Software Engineer @ [GE Digital](https://www.ge.com). Providence, RI |
 _May 2017 - June 2018_
+    
+    Digital workplace applications for GE employees worldwide.
+    
+    Knowledge management and export control system for GE Aviation.
 
-- Built digital workplace applications including:
-  - Internal portal for GE employees worldwide.
-  - Knowledge management and export control system for GE Aviation.
-- Tech stack: ReactJS, Redux, React Native, JavaScript, TypeScript, MySQL.
-
-**Software Consultant** @ [Quality Consulting Inc.](https://qci.com) Des Moines, IA |
+- Software Consultant @ [Quality Consulting Inc.](https://qci.com) Des Moines, IA |
 _November 2014 - May 2017_
 
-- Built custom software solutions for clients, including:
-    - Unemployment Insurance management system for the State of Iowa.
-    - Agricultural Insurance product for Farmers Mutual Hail Insurance Company of Iowa.
-    - Contract and resident management software for memory care facilities.
-- Deployed accounting and ERP software with Microsoft Dynamics GP for businesses and organizations across Iowa.
-- Tech stack: Microsoft.NET, Microsoft SQL, C#, SQL, AngularJS, JavaScript.
+  - Unemployment Insurance management system for the State of Iowa.
+  - Agricultural Insurance product for Farmers Mutual Hail Insurance Company of Iowa.
+  - Contract and resident management software for memory care facilities.
+  - Deployed ERP software with Microsoft Dynamics GP for businesses across Iowa.
 
-**Web Developer** @ Alliance Technologies. Des Moines, IA |
+- Web Developer @ Alliance Technologies. Des Moines, IA |
 _June 2014 - October 2014_
-
-- Developed websites for clients with Drupal CMS and Wordpress CMS.
-
-**Web Developer Intern** @ Birdeye Design. Wooster, OH |
+- Web Developer Intern @ Birdeye Design. Wooster, OH |
 _June 2013 - September 2013_
 
-- Developed websites for clients with Drupal CMS.
+  Developed websites for clients with Drupal CMS and Wordpress CMS.
+
 ### Education
 
 **Bachelor of Arts in Computer Science and Economics**, [The College of Wooster](https://wooster.edu), Ohio -
