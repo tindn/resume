@@ -2,28 +2,28 @@
 
 [tindn@icloud.com](mailto:tindn@icloud.com) | 508-484-3184 | [https://github.com/tindn](https://github.com/tindn)
 
+[PDF & Print](https://github.com/tindn/resume/blob/master/TinNguyen.pdf)
+
 ```
 Product focused engineer, 13 years of experience in full stack web technologies, mobile app development, and recently, AI applications with LLMs.
 ```
-
-**Build LLM-powered features & agentic products**\
-Find PMF for new agentic products while applying good software engineering to LLM-powered apps.
-
-> GPT & Claude models, LangChain, OpenAI SDK, FastAPI, Temporal\
-> Python, TypeScript
-
-**Build delightful and complex mobile apps for Android and iOS using React Native**\
-Focus on product development, mentoring junior engineers, and setting technical foundations.
-
-> React Native, ReactJS, NestJS, NodeJS, PostgreSQL, SQLite\
-> TypeScript, SQL
-
-**Build full stack web applications**\
+***2013-2018: building full stack web applications***\
 Focus on working across back-end and front-end to deliver complete software solutions.
 
 > .NET, ReactJS, AngularJS, Node.js, MS SQL, MySQL\
 > C#, JavaScript, SQL, HTML, CSS
 
+***2018 - 2023: building delightful mobile apps for Android and iOS using React Native***\
+Focus on product development, mentoring junior engineers, and setting technical foundations.
+
+> React Native, ReactJS, NestJS, NodeJS, PostgreSQL, SQLite\
+> TypeScript, SQL
+
+***2024 - now: building LLM-powered features & agentic products***\
+Find PMF for new agentic products while applying good software engineering to building with LLM.
+
+> GPT & Claude models, LangChain, OpenAI SDK, FastAPI, Temporal\
+> Python, TypeScript
 
 ---
 
